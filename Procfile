@@ -1,1 +1,1 @@
-web: main
+web: gettingstarted-golang -port=$PORT
